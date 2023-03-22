@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "activitypemograman2", "activitypemograman2\activitypemograman2.vcxproj", "{1CF48F3D-AD00-4EBC-952A-22A0F0ECCB43}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "looping2", "looping2\looping2.vcxproj", "{12DF90D4-4712-48EA-AB21-5A10DAFC1B7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{1CF48F3D-AD00-4EBC-952A-22A0F0ECCB43}.Release|x64.Build.0 = Release|x64
 		{1CF48F3D-AD00-4EBC-952A-22A0F0ECCB43}.Release|x86.ActiveCfg = Release|Win32
 		{1CF48F3D-AD00-4EBC-952A-22A0F0ECCB43}.Release|x86.Build.0 = Release|Win32
+		{12DF90D4-4712-48EA-AB21-5A10DAFC1B7C}.Debug|x64.ActiveCfg = Debug|x64
+		{12DF90D4-4712-48EA-AB21-5A10DAFC1B7C}.Debug|x64.Build.0 = Debug|x64
+		{12DF90D4-4712-48EA-AB21-5A10DAFC1B7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{12DF90D4-4712-48EA-AB21-5A10DAFC1B7C}.Debug|x86.Build.0 = Debug|Win32
+		{12DF90D4-4712-48EA-AB21-5A10DAFC1B7C}.Release|x64.ActiveCfg = Release|x64
+		{12DF90D4-4712-48EA-AB21-5A10DAFC1B7C}.Release|x64.Build.0 = Release|x64
+		{12DF90D4-4712-48EA-AB21-5A10DAFC1B7C}.Release|x86.ActiveCfg = Release|Win32
+		{12DF90D4-4712-48EA-AB21-5A10DAFC1B7C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
